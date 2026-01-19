@@ -12,13 +12,26 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate GitHub Metrics
+      - name: Generate GitHub Metrics (Neon Mode)
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Jayanthmurala
           filename: github-metrics.svg
+
+          # ---- Base Sections ----
           base: activity, community, repositories
+
+          # ---- ENABLE (Stable) ----
           plugin_stars: yes
           plugin_lines: yes
+
+          # ---- DISABLE (Requested) ----
+          plugin_stars_recent: no
+          plugin_topics: no
+
+          # ---- Visual / Neon Feel ----
+          template: classic
           config_timezone: Asia/Kolkata
+          config_twemoji: true
+          config_display: large
