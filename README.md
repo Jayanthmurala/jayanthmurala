@@ -71,11 +71,9 @@ Network: Technical Communities
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <br/>
-
-## 🛠️ TECH.STACK
-
+🛠️ TECH.STACK
 <div align="center">
-
+Languages
 <table>
 <tr>
 <td align="center" width="110">
@@ -83,30 +81,75 @@ Network: Technical Communities
 <br><b>JavaScript</b>
 </td>
 <td align="center" width="110">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55"/>
-<br><b>TypeScript</b>
-</td>
-<td align="center" width="110">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55"/>
 <br><b>Python</b>
 </td>
 <td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="55"/>
+<br><b>Java</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=html" width="55"/>
+<br><b>HTML5</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=css" width="55"/>
+<br><b>CSS3</b>
+</td>
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55"/>
+<br><b>SQL</b>
+</td>
+</tr>
+</table>
+Frontend Development
+<table>
+<tr>
+<td align="center" width="110">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55"/>
-<br><b>React</b>
+<br><b>React.js</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55"/>
+<br><b>Tailwind CSS</b>
+</td>
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55"/>
+<br><b>TypeScript</b>
 </td>
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=nextjs" width="55"/>
 <br><b>Next.js</b>
 </td>
+</tr>
+</table>
+Backend & APIs
+<table>
+<tr>
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
 <br><b>Node.js</b>
 </td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=express" width="55"/>
+<br><b>Express.js</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postman" width="55"/>
+<br><b>REST APIs</b>
+</td>
 </tr>
+</table>
+Databases & Caching
+<table>
 <tr>
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
 <br><b>MongoDB</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+<br><b>MySQL</b>
 </td>
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=postgres" width="55"/>
@@ -116,63 +159,96 @@ Network: Technical Communities
 <img src="https://skillicons.dev/icons?i=redis" width="55"/>
 <br><b>Redis</b>
 </td>
+</tr>
+</table>
+DevOps & Deployment
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git" width="55"/>
+<br><b>Git</b>
+</td>
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="55"/>
+<br><b>GitHub</b>
+</td>
 <td align="center" width="110">
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55"/>
 <br><b>Docker</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=tailwind" width="55"/>
-<br><b>Tailwind</b>
+<img src="https://skillicons.dev/icons?i=vercel" width="55"/>
+<br><b>Vercel</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=git" width="55"/>
-<br><b>Git</b>
+<img src="https://skillicons.dev/icons?i=linux" width="55"/>
+<br><b>Linux</b>
 </td>
 </tr>
 </table>
-
+AI & Automation
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="55"/>
+<br><b>OpenAI</b>
+</td>
+<td align="center" width="110">
+<img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="55"/>
+<br><b>N8N</b>
+</td>
+</tr>
+</table>
 </div>
-
 <!-- Animated Section Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
 <br/>
 
-## 📊 GITHUB.ANALYTICS
-
+📊 GITHUB.ANALYTICS
 <div align="center">
-
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jayanthmurala&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&include_all_commits=true&count_private=true&rank_icon=github" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jayanthmurala&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41" width="100%"/>
 </td>
 <td width="50%" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Jayanthmurala&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=00FF41&dates=00FF41" width="100%"/>
+```ascii
+╔═══════════════════════════╗
+║    CONTRIBUTION STATS     ║
+╠═══════════════════════════╣
+║  📊 Total Commits: 297    ║
+║  ⭐ Stars Earned: 44      ║
+║  🔧 Total PRs: 1          ║
+║  📈 Active Contributor    ║
+╚═══════════════════════════╝
+```
 </td>
 </tr>
 </table>
-
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanthmurala&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&langs_count=8&hide=html,css" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanthmurala&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41" width="100%"/>
 </td>
 <td width="50%" align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Jayanthmurala&theme=matrix&no-frame=true&no-bg=true&column=3&margin-w=10&margin-h=10" width="100%"/>
+```ascii
+╔═══════════════════════════╗
+║    GITHUB ACHIEVEMENTS    ║
+╠═══════════════════════════╣
+║  🏆 Multiple Repositories ║
+║  ⭐ Active Contributor    ║
+║  💻 Full-Stack Projects   ║
+║  🚀 Production Deploys    ║
+╚═══════════════════════════╝
+```
 </td>
 </tr>
 </table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayanthmurala&custom_title=CONTRIBUTION%20ACTIVITY&hide_border=true&border_radius=0&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41&area_color=00FF41&title_color=00FF41&area=true" width="98%"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayanthmurala&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=00FF41&title_color=00FF41&custom_title=Contribution%20Activity" width="98%"/>
 </div>
-
 <!-- Animated Section Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
 <br/>
-
 <table>
 <tr>
 <td width="50%" valign="top">
