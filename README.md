@@ -46,11 +46,17 @@
 ```
 
 **`OPERATOR:`** M. JAYANTH MURALA
+
 **`ROLE:`** Full-Stack Engineer & AI Architect
+
 **`LOCATION:`** Machilipatnam, India 🇮🇳
-**`EDUCATION:`** B.Tech ECE — Vishnu Institute of Technology
+
+**` EDUCATION:`** B.Tech ECE — Vishnu Institute of Technology
+
 **`CGPA:`** `8.0 / 10.0`
+
 **`GRADUATION:`** `2026`
+
 **`STATUS:`** `[ AVAILABLE FOR OPPORTUNITIES ]`
 
 ```
